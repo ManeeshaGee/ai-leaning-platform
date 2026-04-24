@@ -1,4 +1,4 @@
-# 🎓 AI-Driven Personalized Learning Platform
+# 🎓 AI-Powered Personalized Learning Platform
 
 > A final-year undergraduate Software Engineering project — a cloud-native, MERN-based e-learning platform that adapts content, quizzes, and learning paths in real time based on each learner's performance and knowledge gaps.
 
